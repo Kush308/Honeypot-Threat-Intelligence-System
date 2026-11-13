@@ -469,10 +469,10 @@ No repository license has been selected yet. Add an approved `LICENSE` file befo
 
 | Field | Value |
 |---|---|
-| Author | `<YOUR_NAME>` |
-| GitHub | `<YOUR_GITHUB_PROFILE_URL>` |
-| LinkedIn | `<YOUR_LINKEDIN_PROFILE_URL>` |
-| Contact | `<YOUR_PUBLIC_CONTACT>` |
+| Author | Kritagya Kumar |
+| GitHub | https://github.com/Kush308 |
+| LinkedIn | https://www.linkedin.com/in/kritagya-kumar-37633b2b7/ |
+| Contact | hk015529@gmail.com |
 
 ## References and acknowledgments
 
